@@ -1,8 +1,8 @@
 package HW42.Database.Schema.Management.HW42.Database.Schema.Management.controller;
 
 
-import hogwarts.HW41.SQL.and.Paging.Hogwarts.model.Avatar;
-import hogwarts.HW41.SQL.and.Paging.Hogwarts.service.AvatarService;
+import HW42.Database.Schema.Management.HW42.Database.Schema.Management.model.Avatar;
+import HW42.Database.Schema.Management.HW42.Database.Schema.Management.service.AvatarService;
 import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

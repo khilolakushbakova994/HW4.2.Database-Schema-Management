@@ -3,7 +3,8 @@ package HW42.Database.Schema.Management.HW42.Database.Schema.Management.reposito
 
 
 
-import hogwarts.HW41.SQL.and.Paging.Hogwarts.model.Faculty;
+
+import HW42.Database.Schema.Management.HW42.Database.Schema.Management.model.Faculty;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

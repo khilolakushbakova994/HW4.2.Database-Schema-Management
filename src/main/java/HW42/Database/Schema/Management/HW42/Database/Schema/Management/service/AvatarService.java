@@ -1,8 +1,9 @@
 package HW42.Database.Schema.Management.HW42.Database.Schema.Management.service;
 
-import hogwarts.HW41.SQL.and.Paging.Hogwarts.model.Avatar;
-import hogwarts.HW41.SQL.and.Paging.Hogwarts.model.Student;
-import hogwarts.HW41.SQL.and.Paging.Hogwarts.repository.AvatarRepository;
+
+import HW42.Database.Schema.Management.HW42.Database.Schema.Management.model.Avatar;
+import HW42.Database.Schema.Management.HW42.Database.Schema.Management.model.Student;
+import HW42.Database.Schema.Management.HW42.Database.Schema.Management.repository.AvatarRepository;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.data.domain.PageRequest;

@@ -1,9 +1,10 @@
 package HW42.Database.Schema.Management.HW42.Database.Schema.Management.controller;
 
 
-import hogwarts.HW41.SQL.and.Paging.Hogwarts.model.Student;
-import hogwarts.HW41.SQL.and.Paging.Hogwarts.service.AvatarService;
-import hogwarts.HW41.SQL.and.Paging.Hogwarts.service.StudentService;
+
+import HW42.Database.Schema.Management.HW42.Database.Schema.Management.model.Student;
+import HW42.Database.Schema.Management.HW42.Database.Schema.Management.service.AvatarService;
+import HW42.Database.Schema.Management.HW42.Database.Schema.Management.service.StudentService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

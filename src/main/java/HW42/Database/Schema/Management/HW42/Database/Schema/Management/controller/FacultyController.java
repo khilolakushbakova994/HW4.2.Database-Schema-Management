@@ -2,8 +2,9 @@ package HW42.Database.Schema.Management.HW42.Database.Schema.Management.controll
 
 
 
-import hogwarts.HW41.SQL.and.Paging.Hogwarts.model.Faculty;
-import hogwarts.HW41.SQL.and.Paging.Hogwarts.service.FacultyService;
+
+import HW42.Database.Schema.Management.HW42.Database.Schema.Management.model.Faculty;
+import HW42.Database.Schema.Management.HW42.Database.Schema.Management.service.FacultyService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

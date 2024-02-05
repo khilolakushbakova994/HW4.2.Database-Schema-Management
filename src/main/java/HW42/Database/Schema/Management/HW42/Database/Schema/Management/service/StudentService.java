@@ -1,8 +1,8 @@
 package HW42.Database.Schema.Management.HW42.Database.Schema.Management.service;
 
-import hogwarts.HW41.SQL.and.Paging.Hogwarts.model.Faculty;
-import hogwarts.HW41.SQL.and.Paging.Hogwarts.model.Student;
-import hogwarts.HW41.SQL.and.Paging.Hogwarts.repository.StudentRepository;
+import HW42.Database.Schema.Management.HW42.Database.Schema.Management.model.Faculty;
+import HW42.Database.Schema.Management.HW42.Database.Schema.Management.model.Student;
+import HW42.Database.Schema.Management.HW42.Database.Schema.Management.repository.StudentRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.Collection;
